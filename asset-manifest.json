@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Munideepa_Portfolio/static/css/main.58a0c615.css",
+    "main.js": "/Munideepa_Portfolio/static/js/main.d9619ac7.js",
+    "static/media/HeroImage.jpg": "/Munideepa_Portfolio/static/media/HeroImage.5ffa47cf517c1a70b94a.jpg",
+    "index.html": "/Munideepa_Portfolio/index.html",
+    "main.58a0c615.css.map": "/Munideepa_Portfolio/static/css/main.58a0c615.css.map",
+    "main.d9619ac7.js.map": "/Munideepa_Portfolio/static/js/main.d9619ac7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.d9619ac7.js"
+  ]
+}
